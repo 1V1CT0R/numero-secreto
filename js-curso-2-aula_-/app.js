@@ -1,5 +1,9 @@
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 50;
+=======
+let numeroLimite = 100;
+>>>>>>> parent of a487a41 (Alterando range para 1000)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
